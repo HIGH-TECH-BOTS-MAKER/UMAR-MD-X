@@ -1,5 +1,5 @@
-#### HERMIT MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+#### ➻❥[UMAR]ᴹᴰ࿐ WHATSAP BOT
+➻❥[UMAR]ᴹᴰ࿐- Simple whatsapp Multi Device whatsapp bot.
 
 <p align = center>   <img src="https://telegra.ph/file/d935a0b6a867d2baf0da1.jpg" alt="GIF" width="600" height="300"/> </p>
 
