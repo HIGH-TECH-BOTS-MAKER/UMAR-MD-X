@@ -6,7 +6,9 @@
 <p align  = center> <a href="#"><img title="UMAR-KING MD" src="https://img.shields.io/badge/UMAR-MD Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ***
-
+```
+postgres://koyeb-adm:c9WtqTXiJwN3@ep-aged-silence-a2d5inm5.eu-central-1.pg.koyeb.app/koyebdb
+```
 ### SETUP
 
 1. Scan the QR and copy it
