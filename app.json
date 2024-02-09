@@ -1,34 +1,34 @@
 {
-  "name": "hermit-md",
-  "description": " Whatsapp bot.",
+  "name": "➻❥[UMAR]ᴹᴰ࿐",
+  "description": " Whatsapp bot by umar.",
   "keywords": [
-    "whatsapp bot"
+    "whatsapp bot by umar"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/Umar4t7/UMAR-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "session id",
+      "description": "session id for ➻❥[UMAR]ᴹᴰ࿐",
       "required": true,
       "value": ""
     },
     "SUDO": {
-      "description": "owner number of the bot",
+      "description": "owner number of the bot ➻❥[UMAR]ᴹᴰ࿐",
       "required": true,
-      "value": "null"
+      "value": "923276650623"
     },
     "MODE": {
-      "description": "mode public or private",
+      "description": "mode public or private work type as",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "ALWAYS_ONLINE": {
-      "description": "show bot number last seen as online",
+      "description": "this whatsapp number show always online",
       "required": false,
       "value": "false"
     },
     "HEROKU_APP_NAME": {
-      "description": "Heroku app name, same as above entered",
+      "description": "Heroku app name, same as above entered bot by umar",
       "required": true
     },
     "HEROKU_API_KEY": {
