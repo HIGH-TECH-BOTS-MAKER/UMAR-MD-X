@@ -1,6 +1,10 @@
 #### HERMIT MD WHATSAPP BOT
 Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
+<p align = center>   <img src="https://telegra.ph/file/d935a0b6a867d2baf0da1.jpg" alt="GIF" width="600" height="300"/> </p>
+
+<p align  = center> <a href="#"><img title="UMAR-KING MD" src="https://img.shields.io/badge/UMAR-MD Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+
 ***
 
 ### SETUP
