@@ -1,12 +1,12 @@
 {
-  "name": "hermit-md",
-  "version": "4.4.1",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "name": "➻❥[UMAR]ᴹᴰ࿐",
+  "version": "1.0.0",
+  "description": "➻❥[UMAR]ᴹᴰ࿐ - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name hermit-md"
+    "start": "pm2 start . --attach --name ➻❥[UMAR]ᴹᴰ࿐"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "Umar4t7",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
