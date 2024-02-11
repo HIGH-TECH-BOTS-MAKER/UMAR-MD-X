@@ -11,19 +11,20 @@
 <p align="center"> 
   
 <p align="center"> A Whatsapp Bot Create By 𝑈𝛭𝛥𝑅
+  
 ***
+
+#### I COULDN'T SUPPORT THIS BOT ON HEROKU BECAUSE THIS BOT BANNING THE HEROKU SO I REQUEST YOU TO DEPLOY THIS BOT ON KOYEB IT WILL BE WORKS WELL 🙂❤️THANKS FOT CHOOSING ➻❥[UMAR]ᴹᴰ࿐
+
 ### SETUP FOR ➻❥[UMAR]ᴹᴰ࿐
 
 1. Scan the QR and copy it
     <br>
 <a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-#### DEPLOY ➻❥[UMAR]ᴹᴰ࿐
+#### DEPLOY ➻❥[UMAR]ᴹᴰ࿐ ON kOYEB
 
-#### I COULDN'T SUPPORT THIS BOT ON HEROKU BECAUSE THIS BOT BANNING THE HEROKU SO I REQUEST YOU TO DEPLOY THIS BOT ON KOYEB IT WILL BE WORKS WELL 🙂❤️THANKS FOT CHOOSING ➻❥[UMAR]ᴹᴰ࿐
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
+1. ##### Create a account.
     <br>
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
@@ -32,10 +33,8 @@
   postgres://koyeb-adm:c9WtqTXiJwN3@ep-aged-silence-a2d5inm5.eu-central-1.pg.koyeb.app/koyebdb
   ```
 3. NOW GET KOYEB API KEY FOR ➻❥[UMAR]ᴹᴰ࿐
-4. 
-5. Get [Koyeb api key](https://app.koyeb.com/account/api)
-6. 
-2. Now Deploy
+Get [Koyeb api key](https://app.koyeb.com/account/api)
+4. Now Deploy
     <br>
 <a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
