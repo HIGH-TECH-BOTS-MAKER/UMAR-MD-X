@@ -1,10 +1,10 @@
 {
   "name": "➻❥[UMAR]ᴹᴰ࿐",
-  "description": " Whatsapp bot by umar.",
+  "description": " Whatsapp bot by 𝑈𝛭𝛥𝑅.",
   "keywords": [
-    "whatsapp bot by umar"
+    "whatsapp bot by 𝑈𝛭𝛥𝑅"
   ],
-  "repository": "https://github.com/Umar4t7/UMAR-MD",
+  "repository": "https://github.com/Umar4t7/UMAR-MD-X",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -15,7 +15,7 @@
     "SUDO": {
       "description": "owner number of the bot ➻❥[UMAR]ᴹᴰ࿐",
       "required": true,
-      "value": "923276650623"
+      "value": "233200857544"
     },
     "MODE": {
       "description": "mode public or private work type as",
@@ -36,29 +36,29 @@
       "required": true
     },
     "LOG_MSG": {
-      "description": "Show whatsapp msgs in log",
+      "description": "Show whatsapp msgs in logs",
       "required": false,
       "value": "false"
     },
     "PREFIX": {
-      "description": "prefix for bot. all so can be null or false multi prefix",
+      "description": "prefix for bot any symbol dot all so can be null or false multi prefix",
       "required": true,
       "value": "."
     },
     "BOT_INFO": {
-      "description": "botname;ownername;ownernumber;image url",
+      "description": "don't change this text warning!!!!!",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝑈𝛭𝛥𝑅-𝛭𝐷;𝑈𝛭𝛥𝑅;233200857544;https://telegra.ph/file/a59688bc60ff2d944e682.jpg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "𝑈𝛭𝛥𝑅-𝛭𝐷;+233200857544"
     },
     "AUDIO_DATA": {
-      "description": "audio package name",
+      "description": "don't change this text warnin!!!!",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝑈𝛭𝛥𝑅-𝛭𝐷;𝑈𝛭𝛥𝑅;https://telegra.ph/file/a59688bc60ff2d944e682.jpg"
     },
     "READ_MSG": {
       "description": "Read all messages",
@@ -66,19 +66,19 @@
       "value": "false"
     },
     "AUTO_STATUS_VIEW": {
-      "description": "automatic read status",
+      "description": "auto read status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "REJECT_CALL": {
-      "description": "automatic reject call",
+      "description": "auto reject call",
       "required": false,
       "value": "false"
     },
     "WARN": {
       "description": "warn count",
       "required": false,
-      "value": "4"
+      "value": "2"
     },
     "SONG_THUMBNAIL": {
       "description": "show youtube video thumbnail in song cmd",
@@ -88,7 +88,7 @@
     "ERROR_MESSAGE": {
       "description": "get error alert",
       "required": false,
-      "value": "true"
+      "value": "false"
     }
   },
   "addons": [
