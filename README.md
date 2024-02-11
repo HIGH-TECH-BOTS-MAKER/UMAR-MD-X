@@ -1,10 +1,16 @@
 #### ➻❥[UMAR]ᴹᴰ࿐ WHATSAP BOT
 ➻❥[UMAR]ᴹᴰ࿐- Simple whatsapp Multi Device whatsapp bot.
 
-<p align = center>   <img src="https://telegra.ph/file/a59688bc60ff2d944e682.jpg" alt="GIF" width="600" height="300"/> </p>
-
-<p align  = center> <a href="#"><img title="UMAR-KING MD" src="https://img.shields.io/badge/UMAR-MD Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
-
+</p>
+<p align="center">
+  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
+    <img alt=Support height="350" src="https://telegra.ph/file/a59688bc60ff2d944e682.jpg"> 
+    </p>
+<h1 align="center">    ➻❥[UMAR]ᴹᴰ࿐-MULTI-DEVICE (BETA)
+</h1>
+<p align="center"> 
+  
+<p align="center"> A Whatsapp Bot Create By 𝑈𝛭𝛥𝑅
 ***
 ### SETUP FOR ➻❥[UMAR]ᴹᴰ࿐
 
