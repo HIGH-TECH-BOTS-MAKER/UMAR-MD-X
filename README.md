@@ -13,11 +13,13 @@
 <p align="center"> A Whatsapp Bot Create By UMAR
   
 ***
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FUMAR-MD-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
+![forks](https://img.shields.io/github/forks/Umar4t7/UMAR-MD-X?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/Umar4t7/UMAR-MD-X?style=social)
+
 
 #### I COULDN'T SUPPORT THIS BOT ON HEROKU BECAUSE THIS BOT BANNING THE HEROKU SO I REQUEST YOU TO DEPLOY THIS BOT ON KOYEB IT WILL BE WORKS WELL THANKS FOT CHOOSING UMAR-MD-X
 
