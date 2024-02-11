@@ -1,7 +1,7 @@
 #### ➻❥[UMAR]ᴹᴰ࿐ WHATSAP BOT
 ➻❥[UMAR]ᴹᴰ࿐- Simple whatsapp Multi Device whatsapp bot.
 
-<p align = center>   <img src="https://telegra.ph/file/d935a0b6a867d2baf0da1.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align = center>   <img src="https://telegra.ph/file/a59688bc60ff2d944e682.jpg" alt="GIF" width="600" height="300"/> </p>
 
 <p align  = center> <a href="#"><img title="UMAR-KING MD" src="https://img.shields.io/badge/UMAR-MD Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
@@ -14,6 +14,7 @@
 
 #### DEPLOY ➻❥[UMAR]ᴹᴰ࿐
 
+#### I COULDN'T SUPPORT THIS BOT ON HEROKU BECAUSE THIS BOT BANNING THE HEROKU SO I REQUEST YOU TO DEPLOY THIS BOT ON KOYEB IT WILL BE WORKS WELL 🙂❤️THANKS FOT CHOOSING ➻❥[UMAR]ᴹᴰ࿐
 #### DEPLOY TO KOYEB 
 
 1. If You don't have a account in koyeb. Create a account.
@@ -24,10 +25,10 @@
  ```
   postgres://koyeb-adm:c9WtqTXiJwN3@ep-aged-silence-a2d5inm5.eu-central-1.pg.koyeb.app/koyebdb
   ```
-3. NOW COPY THIS KOYEB API KEY FOR ➻❥[UMAR]ᴹᴰ࿐
-   ```
-   gilr4amxmn57c6rgoalq5eh21rk82xst5x72thd5zpk71urkitwkbr8qt8qfbjpq
-   ```
+3. NOW GET KOYEB API KEY FOR ➻❥[UMAR]ᴹᴰ࿐
+4. 
+5. Get [Koyeb api key](https://app.koyeb.com/account/api)
+6. 
 2. Now Deploy
     <br>
 <a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
