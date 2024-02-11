@@ -20,9 +20,9 @@
 1. Scan the QR and copy it
     <br>
 <a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-#### DEPLOY ➻❥[UMAR]ᴹᴰ࿐ ON kOYEB
-1. ##### Create a Koyeb account [❤️Video TUTORIAL❤️](https://tinyurl.com/yl3xz9bj)
     <br>
+    #### DEPLOY ➻❥[UMAR]ᴹᴰ࿐ ON kOYEB
+1. ##### Create a Koyeb account [❤️Video TUTORIAL❤️](https://tinyurl.com/yl3xz9bj)
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 2. NOW COPY THIS DATABASE URL FOR ➻❥[UMAR]ᴹᴰ࿐
