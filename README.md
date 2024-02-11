@@ -1,5 +1,5 @@
 #### ➻❥[UMAR]ᴹᴰ࿐ WHATSAP BOT
-➻❥[UMAR]ᴹᴰ࿐- Simple whatsapp Multi Device whatsapp bot.
+➻❥[UMAR]ᴹᴰ࿐- Powerful Multi Device whatsapp bot
 
 </p>
 <p align="center">
