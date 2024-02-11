@@ -17,14 +17,11 @@
 #### I COULDN'T SUPPORT THIS BOT ON HEROKU BECAUSE THIS BOT BANNING THE HEROKU SO I REQUEST YOU TO DEPLOY THIS BOT ON KOYEB IT WILL BE WORKS WELL 🙂❤️THANKS FOT CHOOSING ➻❥[UMAR]ᴹᴰ࿐
 
 ### SETUP FOR ➻❥[UMAR]ᴹᴰ࿐
-
 1. Scan the QR and copy it
     <br>
 <a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
 #### DEPLOY ➻❥[UMAR]ᴹᴰ࿐ ON kOYEB
-
-1. ##### Create a account.
+1. ##### Create a Koyeb account [Video]()
     <br>
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
